@@ -1,0 +1,7 @@
+Steps to Upload Files
+1. Open Git Bash
+Right-click in your project folder → Git Bash Here (Windows).
+
+Or open Terminal (macOS/Linux) and navigate using cd.
+
+2. Initialize Git (If New Project)
